@@ -11,14 +11,14 @@
         <meta name="author" content="{{ .Site.Author.name }}">
         <meta name="description" content="{{ if ne .Description "" }}{{ .Description }}{{ else }}{{ .Site.Params.description }}{{ end }}">
         <meta name="keywords" content="{{ with .Keywords }}{{ delimit . ", " }}{{ else }}{{ .Site.Params.keywords }}{{ end }}">
-        {{ .Hugo.Generator }}
+        {{ hugo.Generator }}
         <link rel="icon" href="{{ "assets/favicon.ico" | absURL }}" type="image/x-icon"> 
         <link rel="stylesheet" href="{{ "css/slender-base.css" | absURL }}">
         <link rel="stylesheet" href="{{ "css/slender-color-schemes.css" | absURL }}">
         <link rel="stylesheet" href="{{ "css/font-awesome-4.5.0.min.css" | absURL }}">
         <link rel="stylesheet" href="{{ "css/highlight-9.0.0-default.min.css" | absURL }}">
         <title>
-            {{ if eq .URL "/" }}
+            {{ if eq .RelPermalink "/" }}
                 {{ .Site.Title }}
             {{ else }}
                 {{ .Title }} &middot; {{ .Site.Title }}
