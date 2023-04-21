@@ -11,6 +11,7 @@ title = "Important dates"
 
 The important dates you should bear in mind for the workshop are the following:
 
+- **Abstract submission:**     July 10 2023, AoE        
 - **Paper submission:**        July 17 2023, AoE       
 - **Notification:**            August 15 2023, AoE
 - **Camera ready:**            August 22 2023, AoE  
