@@ -70,7 +70,7 @@ Topics of interest include (but are not limited to):
 - Innovative textual modeling tools
 - Comparison, evaluation and integration of modeling languages
 - Correlation between modeling languages and modeling tasks
-- Evaluation of generative AI tools to create textual modeling specifications
+- Evaluation of generative AI tools to manage textual modeling specifications (creation, refactoring, ...)
 - Reflections on the future trends of textual modeling languages 
   and their integrity with other software development technologies
 
@@ -97,7 +97,6 @@ workshop proceedings volume to be published by IEEE.
 
 ## Important Dates
 
-- **Abstract submission:**     July 10 2023, AoE 
 - **Paper submission:**        July 17 2023, AoE       
 - **Notification:**            August 15 2023, AoE
 - **Camera ready:**            August 22 2023, AoE  
