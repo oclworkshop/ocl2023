@@ -13,7 +13,7 @@ title = "Committee"
 
 ## Programme Committee 
 
-* Mustafa Al-Lail, Texas A&M International University, UK 
+* Mustafa Al-Lail, Texas A&M International University, USA 
 * Achim D. Brucker, University of Exeter, UK
 * Daniel Calegari, Universidad de la República, Uruguay
 * Dan Chiorean, Babes-Bolyai University, Romania
