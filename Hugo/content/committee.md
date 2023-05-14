@@ -23,6 +23,7 @@ title = "Committee"
 * Xavier Oriol, UPC-Barcelona Tech, Spain
 * Bernhard Rumpe, RWTH Aachen, Germany
 * Arnon Sturm, Ben-Gurion University of the Negev, Israel
+* Ernest Teniente, UPC-Barcelona Tech, Spain
 * Javier Troya, Universidad de Málaga, Spain
 * Hao Wu, Maynooth University, Ireland
 
