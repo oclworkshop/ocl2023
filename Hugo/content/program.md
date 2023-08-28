@@ -11,8 +11,8 @@ title = "Program"
 🕤09:30 - 🕚11:00 **Session 1: **
 * 09:30 - 09:35 Opening
 * 09:35 - 10:20 Keynote: Lola Burgueño, *Generative AI for Crafting Textual Models and Constraints: Current Capabilities and Challenges*
-* 10:20 - 10:50 Frédéric Jouault and Nicolas Pouillard, *Approaching Model Edition as a Linear Logic Problem*
-* 10:50 - 11:00 Discussion
+* 10:20 - 10:40 Frédéric Jouault and Nicolas Pouillard, *Approaching Model Edition as a Linear Logic Problem*
+* 10:40 - 11:00 Discussion
 
 🕦11:30 - 🕐13:00 **Session 2: **
 * 11:30 - 12:15 Keynote, Martin Gogolla, *Towards a Model Development Environment - Acknowledging Contradicting Dimensions in MDE*
